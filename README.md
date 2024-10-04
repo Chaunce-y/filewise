@@ -1,6 +1,3 @@
-# filewise
-FileWise is an intelligent file-naming tool that automatically names and organizes files based on content, perfect for simplifying document management and enhancing searchability.
-
 # FileWise (or Nomenix / Nomin8)
 
 **FileWise** is an intelligent file-naming tool that automatically names files based on their contents, helping users maintain organized, easily searchable files across different formats. Ideal for resumes, reports, documents, and beyond, FileWise utilizes content-based analysis to suggest relevant, dynamic names.
